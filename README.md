@@ -6,8 +6,8 @@ Você lembra do Mr.Maker?
     <br>
     <h3>Phineas e Ferb<h3/>
     
-<h5>São três meses de ferias 
-Que passam depressa 
+<h5>São três meses de ferias \n 
+Que passam depressa \n
 Curtir é prioridade
 
 Temos que aproveitar bem
